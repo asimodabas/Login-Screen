@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout-large/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout-normal/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout-small/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout-xlarge/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/WindoWss/AndroidStudioProjects/KotlinProject2/app/src/main/res/layout/linear.xml" value="1.25" />
       </map>
     </option>
