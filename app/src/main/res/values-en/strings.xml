@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">KotlinProject</string>
-    
-    <string name="KullaniciAdi">User Name</string>
-    <string name="Sifre">Password</string>
-    <string name="ButtonYazi">LOGIN</string>
-    <string name="Yardim">Help ?</string>
-    
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="help">Help ?</string>
+    <string name="register">Register</string>
+    <string name="exit">Exit</string>
+    <string name="hello">Welcome</string>
+    <string name="personal_info">Personal Information</string>
+
 </resources>

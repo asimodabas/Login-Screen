@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">KotlinProject</string>
-
-    <string name="KullaniciAdi">Kullanıcı Adı</string>
-    <string name="Sifre">Şifre</string>
-    <string name="ButtonYazi">Giriş</string>
-    <string name="Yardim">Yardım ?</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="help">Yardım ?</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="exit">Çıkış yap</string>
+    <string name="hello">Hoşgeldiniz</string>
+    <string name="personal_info">Kişisel Bilgileriniz</string>
 
 </resources>
