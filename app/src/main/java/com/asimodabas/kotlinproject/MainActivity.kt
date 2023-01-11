@@ -16,6 +16,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.createButton.setOnClickListener {
+            startActivity(Intent(this@MainActivity, CreateActivity::class.java))
+        }
+
         binding.textView.setOnClickListener {
             Toast.makeText(this, "Yardım isteği iletildi", Toast.LENGTH_SHORT).show()
         }

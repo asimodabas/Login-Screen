@@ -8,5 +8,15 @@
     <string name="exit">Çıkış yap</string>
     <string name="hello">Hoşgeldiniz</string>
     <string name="personal_info">Kişisel Bilgileriniz</string>
+    <string name="dateOfBirth">Doğum Tarihi</string>
+    <string name="surname">Soyad</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="woman">Kadın</string>
+    <string name="man">Erkek</string>
+    <string name="kvkk_text_accept">Açık Rıza Metnini</string>
+    <string name="click_create_button">KAYDOL Butonuna Tıklarsanız</string>
+    <string name="you_accept">kabul etmiş olursunuz</string>
+    <string name="already_have_account">Zaten hesabın var mı?</string>
 
 </resources>

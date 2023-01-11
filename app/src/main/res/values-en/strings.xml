@@ -8,5 +8,15 @@
     <string name="exit">Exit</string>
     <string name="hello">Welcome</string>
     <string name="personal_info">Personal Information</string>
+    <string name="dateOfBirth">Date of birth</string>
+    <string name="surname">Surname</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="woman">Woman</string>
+    <string name="man">Man</string>
+    <string name="kvkk_text_accept">Explicit Consent Text</string>
+    <string name="click_create_button">If you click the REGISTER button</string>
+    <string name="you_accept">you accept</string>
+    <string name="already_have_account">Already have an account?</string>
 
 </resources>
